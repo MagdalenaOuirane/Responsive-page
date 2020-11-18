@@ -186,7 +186,8 @@ div.img-box {
 }
 
 img.swimming {
-  width: 100%;
+ width: 100%;
+
 }
 
 video {
@@ -507,7 +508,8 @@ div.info-item {
 
 .round-img {
   border-radius: 50%;
-  width: 100%;
+  max-width: 100%;
+  height:auto;
 }
 
 .ceo-name {
